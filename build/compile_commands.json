@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pi/Pera/build",
+  "command": "/usr/bin/g++-8    -g   -o CMakeFiles/Pera.dir/helloworld.cpp.o -c /home/pi/Pera/helloworld.cpp",
+  "file": "/home/pi/Pera/helloworld.cpp"
+}
+]

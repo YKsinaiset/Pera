@@ -1,0 +1,3 @@
+/home/pi/Pera/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Pera/build/CMakeFiles/Pera.dir
+/home/pi/Pera/build/CMakeFiles/edit_cache.dir
