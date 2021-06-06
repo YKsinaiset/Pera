@@ -79,6 +79,7 @@ Pera_EXTERNAL_OBJECTS =
 
 Pera: CMakeFiles/Pera.dir/helloworld.cpp.o
 Pera: CMakeFiles/Pera.dir/build.make
+Pera: /usr/lib/libwiringPi.so
 Pera: CMakeFiles/Pera.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/pi/Pera/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Pera"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Pera.dir/link.txt --verbose=$(VERBOSE)

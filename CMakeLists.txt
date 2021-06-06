@@ -1,3 +1,5 @@
 cmake_minimum_required(VERSION 3.0.0)
 project(Pera)
+find_library(WIRINGPI_LIBRARIES NAMES wiringPi)
 add_executable(Pera helloworld.cpp)
+target_link_libraries(Pera ${WIRINGPI_LIBRARIES})

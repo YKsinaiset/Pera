@@ -205,6 +205,9 @@ Pera_BINARY_DIR:STATIC=/home/pi/Pera/build
 //Value Computed by CMake
 Pera_SOURCE_DIR:STATIC=/home/pi/Pera
 
+//Path to a library.
+WIRINGPI_LIBRARIES:FILEPATH=/usr/lib/libwiringPi.so
+
 
 ########################
 # INTERNAL cache entries

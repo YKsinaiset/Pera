@@ -9,4 +9,8 @@
 /home/pi/Pera/helloworld.cpp
 iostream
 -
+wiringPiSPI.h
+-
+wiringPi.h
+-
 
